@@ -9,11 +9,7 @@ This Visual Studio Code extension provides syntax highlighting for the Visual 3D
   - Parameters: Start with a `/` (e.g., `/FILE_NAME=`).
   - Comments: Begin with an exclamation mark `!`.
   - Function termination: Indicated by a semicolon `;`.
-  
-## Usage
-
-Open any `.v3s` file in Visual Studio Code to see the syntax highlighting automatically applied.
-
+ 
 ## Installation
 
 To install the extension, follow these steps:
@@ -23,6 +19,10 @@ To install the extension, follow these steps:
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
 4. Click on the three-dot menu in the top-right corner of the Extensions view and select `Install from VSIX...`.
 5. Choose the downloaded `.vsix` file and click `Open`.
+  
+## Usage
+
+Open any `.v3s` file in Visual Studio Code to see the syntax highlighting automatically applied.
 
 ## License
 
