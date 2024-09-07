@@ -24,10 +24,6 @@ To install the extension, follow these steps:
 4. Click on the three-dot menu in the top-right corner of the Extensions view and select `Install from VSIX...`.
 5. Choose the downloaded `.vsix` file and click `Open`.
 
-## Contribution
-
-Feel free to open issues or submit pull requests to improve this extension. Contributions are welcome!
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
