@@ -1,6 +1,6 @@
 # Visual 3D Pipeline Script Syntax Highlighting for Visual Studio Code
 
-This Visual Studio Code extension provides syntax highlighting for the Visual 3D Pipeline Script (.v3s) language, a procedural scripting language used to automate tasks in Visual 3D Pipeline. The extension supports the following features:
+This Visual Studio Code extension provides syntax highlighting for the Visual 3D Pipeline Script (.v3s) language, a procedural scripting language used to automate tasks in Visual 3D Professional (HAS-Motion). The extension supports the following features:
 
 ## Features
 
